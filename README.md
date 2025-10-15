@@ -68,4 +68,4 @@ customer-churn-prediction/
     └── model_pipeline.py     # Training and evaluation pipeline
 
 🔗 Connect With Me
-[Amin Sharifi] | [aminemsharifi@gmail.com]
+[Amin Sharifiii] | [aminemsharifi@gmail.com]
